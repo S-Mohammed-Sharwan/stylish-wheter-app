@@ -1,1 +1,1 @@
-# stylish-wheter-app
+# stylish-weather-app
